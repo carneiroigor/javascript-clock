@@ -8,5 +8,3 @@
   - **HTML**
   - **CSS**
   - **JavaScript**
-
-You can visit the deployed app at: link
