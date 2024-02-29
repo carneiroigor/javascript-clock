@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 </p>
-<h2 id="tech">Technologies 💻</h2>
+<h2 id="tech"> Technologies 💻</h2>
 
   - **HTML**
   - **CSS**
